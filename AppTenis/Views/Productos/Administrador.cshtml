@@ -1,0 +1,67 @@
+﻿@model IEnumerable<AppTenis.Models.Entities.Producto>
+
+@{
+    ViewBag.Title = "Administrador";
+    Layout = "~/Views/Shared/Pagina_Principal.cshtml";
+}
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+<h2>Administrador</h2>
+<br />
+
+<table class="table table-striped table-hover">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.descripcion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.precio)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.foto)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.precio)
+            </td>
+            <td>
+                <img src="@Url.Content("~/imag/" + item.foto)" width="200" height="200">
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { id = item.id }) |
+                @Html.ActionLink("Detalles", "Detalles", new { id = item.id }) |
+                @Html.ActionLink("Eliminar ", "Delete", new { id = item.id }) |
+                @Html.ActionLink("Ver clientes que compraron este producto", "ClientesQueCompraron", "Productos", new { id = item.id }, null)
+
+
+            </td>
+        </tr>
+    }
+
+</table>
+
+<div class="btn-group">
+    <a href="~/Productos/Alta" class="btn btn-primary">Agregar Productos</a>
+    <br />
+    <a href="~/Usuarios/VistaUsuario" class="btn btn-primary">Vista Usuarios</a>
+    <a href="@Url.Action("Index.aspx", "Index.aspx")" class="btn btn-danger">Cerrar Sesion</a>
+</div>

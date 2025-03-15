@@ -1,0 +1,70 @@
+﻿@model AppTenis.Models.Entities.Producto
+
+@{
+    ViewBag.Title = "Detalles del Producto";
+    Layout = "~/Views/Shared/Pagina_Usuario.cshtml";
+}
+
+<h2>Detalles del Producto</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            ID
+        </th>
+        <td>
+            @Html.DisplayFor(model => model.id)
+        </td>
+    </tr>
+    <tr>
+        <th>
+            Nombre
+        </th>
+        <td>
+            @Html.DisplayFor(model => model.nombre)
+        </td>
+    </tr>
+    <tr>
+        <th>
+            Descripción
+        </th>
+        <td>
+            @Html.DisplayFor(model => model.descripcion)
+        </td>
+    </tr>
+    <tr>
+        <th>
+            Precio
+        </th>
+        <td>
+            @Html.DisplayFor(model => model.precio)
+        </td>
+    </tr>
+    <tr>
+        <th>
+            Foto
+        </th>
+        <td>
+            <img src="~/imag/@Model.foto" width="200" height="200">
+        </td>
+    </tr>
+</table>
+
+<!-- Botón para agregar al carrito -->
+@using (Html.BeginForm("AgregarAlCarrito", "Productos", FormMethod.Post))
+{
+    @Html.HiddenFor(model => model.id) <!-- Campo oculto con el ID del producto -->
+
+    <div class="form-group">
+        <label>Cantidad:</label>
+        <input type="number" name="cantidad" class="form-control" value="1" min="1" required />
+    </div>
+
+    <button type="submit" class="btn btn-success">Agregar al Carrito</button>
+}
+
+
+<!-- Enlaces para ir a la página principal o al carrito -->
+
+<a href="@Url.Action("Carrito", "Productos")" class="btn btn-primary">Ver Carrito</a>
+<a href="@Url.Action("Catalogo", "Productos")" class="btn btn-primary">Ir a página principal</a>

@@ -1,0 +1,546 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\apptenis\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|solutionrelative:apptenis\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\apptenis\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|solutionrelative:apptenis\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\apptenis\\models\\sistema.bll\\negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|solutionrelative:apptenis\\models\\sistema.bll\\negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\apptenis\\models\\sistema.dll\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|solutionrelative:apptenis\\models\\sistema.dll\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|c:\\users\\nafia\\desktop\\app celulares producto 3\\apptenis 1 final1\\apptenis\\apptenis\\views\\productos\\carrito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|solutionrelative:apptenis\\views\\productos\\carrito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\apptenis\\models\\entities\\compracliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|solutionrelative:apptenis\\models\\entities\\compracliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\apptenis\\models\\entities\\clientecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|solutionrelative:apptenis\\models\\entities\\clientecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\apptenis\\views\\usuarios\\vercomprasclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|solutionrelative:apptenis\\views\\usuarios\\vercomprasclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\apptenis\\views\\productos\\productoscomprados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|solutionrelative:apptenis\\views\\productos\\productoscomprados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\apptenis\\views\\productos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|solutionrelative:apptenis\\views\\productos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\apptenis\\views\\productos\\confirmacioncompra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|solutionrelative:apptenis\\views\\productos\\confirmacioncompra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\apptenis\\views\\productos\\clientesquecompraron.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|solutionrelative:apptenis\\views\\productos\\clientesquecompraron.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\apptenis\\views\\productos\\clientesquehancompradoproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|solutionrelative:apptenis\\views\\productos\\clientesquehancompradoproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\apptenis\\views\\productos\\compracancelada.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|solutionrelative:apptenis\\views\\productos\\compracancelada.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\apptenis\\views\\productos\\compraexitosa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|solutionrelative:apptenis\\views\\productos\\compraexitosa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\apptenis\\views\\productos\\administrador.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|solutionrelative:apptenis\\views\\productos\\administrador.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\apptenis\\views\\shared\\pagina_principal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|solutionrelative:apptenis\\views\\shared\\pagina_principal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\apptenis\\views\\usuarios\\vistausuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|solutionrelative:apptenis\\views\\usuarios\\vistausuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\apptenis\\views\\usuarios\\comprasporcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|solutionrelative:apptenis\\views\\usuarios\\comprasporcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\apptenis\\models\\entities\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|solutionrelative:apptenis\\models\\entities\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\apptenis\\models\\entities\\compraconcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|solutionrelative:apptenis\\models\\entities\\compraconcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\apptenis\\models\\entities\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|solutionrelative:apptenis\\models\\entities\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\apptenis\\views\\productos\\detalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|solutionrelative:apptenis\\views\\productos\\detalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\apptenis\\views\\productos\\catalogo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|solutionrelative:apptenis\\views\\productos\\catalogo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\apptenis\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|solutionrelative:apptenis\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\apptenis\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|solutionrelative:apptenis\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\apptenis\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|solutionrelative:apptenis\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\apptenis\\views\\productos\\detalles_comprador.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|solutionrelative:apptenis\\views\\productos\\detalles_comprador.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\apptenis\\models\\entities\\productosencarrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|solutionrelative:apptenis\\models\\entities\\productosencarrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\apptenis\\views\\productos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|solutionrelative:apptenis\\views\\productos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\apptenis\\models\\entities\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|solutionrelative:apptenis\\models\\entities\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\apptenis\\models\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D61C8D-58E9-4B9E-8D4C-059E187757EF}|AppTenis\\AppTenis.csproj|solutionrelative:apptenis\\models\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 275,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CompraCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Models\\Entities\\CompraCliente.cs",
+              "RelativeDocumentMoniker": "AppTenis\\Models\\Entities\\CompraCliente.cs",
+              "ToolTip": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Models\\Entities\\CompraCliente.cs",
+              "RelativeToolTip": "AppTenis\\Models\\Entities\\CompraCliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T23:27:51.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Carrito.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Productos\\Carrito.cshtml",
+              "RelativeDocumentMoniker": "AppTenis\\Views\\Productos\\Carrito.cshtml",
+              "ToolTip": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Productos\\Carrito.cshtml",
+              "RelativeToolTip": "AppTenis\\Views\\Productos\\Carrito.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T04:24:19.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "AppTenis\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "AppTenis\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwCYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T23:20:46.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Negocio.cs",
+              "DocumentMoniker": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Models\\Sistema.BLL\\Negocio.cs",
+              "RelativeDocumentMoniker": "AppTenis\\Models\\Sistema.BLL\\Negocio.cs",
+              "ToolTip": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Models\\Sistema.BLL\\Negocio.cs",
+              "RelativeToolTip": "AppTenis\\Models\\Sistema.BLL\\Negocio.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAQwM0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T06:24:30.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Datos.cs",
+              "DocumentMoniker": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Models\\Sistema.DLL\\Datos.cs",
+              "RelativeDocumentMoniker": "AppTenis\\Models\\Sistema.DLL\\Datos.cs",
+              "ToolTip": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Models\\Sistema.DLL\\Datos.cs",
+              "RelativeToolTip": "AppTenis\\Models\\Sistema.DLL\\Datos.cs",
+              "ViewState": "AQIAAMQCAAAAAAAAAAAkwOgCAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T06:24:12.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "AppTenis\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "AppTenis\\Controllers\\ProductosController.cs",
+              "ViewState": "AQIAABABAAAAAAAAAAAYwCwBAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:21:10.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClienteCompra.cs",
+              "DocumentMoniker": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Models\\Entities\\ClienteCompra.cs",
+              "RelativeDocumentMoniker": "AppTenis\\Models\\Entities\\ClienteCompra.cs",
+              "ToolTip": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Models\\Entities\\ClienteCompra.cs",
+              "RelativeToolTip": "AppTenis\\Models\\Entities\\ClienteCompra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T02:14:09.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VerComprasClientes.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Usuarios\\VerComprasClientes.cshtml",
+              "RelativeDocumentMoniker": "AppTenis\\Views\\Usuarios\\VerComprasClientes.cshtml",
+              "ToolTip": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Usuarios\\VerComprasClientes.cshtml",
+              "RelativeToolTip": "AppTenis\\Views\\Usuarios\\VerComprasClientes.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T03:01:23.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Productos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AppTenis\\Views\\Productos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Productos\\Delete.cshtml",
+              "RelativeToolTip": "AppTenis\\Views\\Productos\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T23:44:54.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductosComprados.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Productos\\ProductosComprados.cshtml",
+              "RelativeDocumentMoniker": "AppTenis\\Views\\Productos\\ProductosComprados.cshtml",
+              "ToolTip": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Productos\\ProductosComprados.cshtml",
+              "RelativeToolTip": "AppTenis\\Views\\Productos\\ProductosComprados.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T23:44:56.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConfirmacionCompra.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Productos\\ConfirmacionCompra.cshtml",
+              "RelativeDocumentMoniker": "AppTenis\\Views\\Productos\\ConfirmacionCompra.cshtml",
+              "ToolTip": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Productos\\ConfirmacionCompra.cshtml",
+              "RelativeToolTip": "AppTenis\\Views\\Productos\\ConfirmacionCompra.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T23:35:00.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClientesQueCompraron.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Productos\\ClientesQueCompraron.cshtml",
+              "RelativeDocumentMoniker": "AppTenis\\Views\\Productos\\ClientesQueCompraron.cshtml",
+              "ToolTip": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Productos\\ClientesQueCompraron.cshtml",
+              "RelativeToolTip": "AppTenis\\Views\\Productos\\ClientesQueCompraron.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T04:39:37.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClientesQueHanCompradoProducto.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Productos\\ClientesQueHanCompradoProducto.cshtml",
+              "RelativeDocumentMoniker": "AppTenis\\Views\\Productos\\ClientesQueHanCompradoProducto.cshtml",
+              "ToolTip": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Productos\\ClientesQueHanCompradoProducto.cshtml",
+              "RelativeToolTip": "AppTenis\\Views\\Productos\\ClientesQueHanCompradoProducto.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T19:02:23.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CompraCancelada.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Productos\\CompraCancelada.cshtml",
+              "RelativeDocumentMoniker": "AppTenis\\Views\\Productos\\CompraCancelada.cshtml",
+              "ToolTip": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Productos\\CompraCancelada.cshtml",
+              "RelativeToolTip": "AppTenis\\Views\\Productos\\CompraCancelada.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T09:28:38.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CompraExitosa.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Productos\\CompraExitosa.cshtml",
+              "RelativeDocumentMoniker": "AppTenis\\Views\\Productos\\CompraExitosa.cshtml",
+              "ToolTip": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Productos\\CompraExitosa.cshtml",
+              "RelativeToolTip": "AppTenis\\Views\\Productos\\CompraExitosa.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T05:41:46.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Administrador.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Productos\\Administrador.cshtml",
+              "RelativeDocumentMoniker": "AppTenis\\Views\\Productos\\Administrador.cshtml",
+              "ToolTip": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Productos\\Administrador.cshtml",
+              "RelativeToolTip": "AppTenis\\Views\\Productos\\Administrador.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T06:45:03.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Pagina_Principal.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Shared\\Pagina_Principal.cshtml",
+              "RelativeDocumentMoniker": "AppTenis\\Views\\Shared\\Pagina_Principal.cshtml",
+              "ToolTip": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Shared\\Pagina_Principal.cshtml",
+              "RelativeToolTip": "AppTenis\\Views\\Shared\\Pagina_Principal.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T04:44:15.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VistaUsuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Usuarios\\VistaUsuario.cshtml",
+              "RelativeDocumentMoniker": "AppTenis\\Views\\Usuarios\\VistaUsuario.cshtml",
+              "ToolTip": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Usuarios\\VistaUsuario.cshtml",
+              "RelativeToolTip": "AppTenis\\Views\\Usuarios\\VistaUsuario.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T23:35:13.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ComprasPorCliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Usuarios\\ComprasPorCliente.cshtml",
+              "RelativeDocumentMoniker": "AppTenis\\Views\\Usuarios\\ComprasPorCliente.cshtml",
+              "ToolTip": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Usuarios\\ComprasPorCliente.cshtml",
+              "RelativeToolTip": "AppTenis\\Views\\Usuarios\\ComprasPorCliente.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T02:54:27.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Carrito.cs",
+              "DocumentMoniker": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Models\\Entities\\Carrito.cs",
+              "RelativeDocumentMoniker": "AppTenis\\Models\\Entities\\Carrito.cs",
+              "ToolTip": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Models\\Entities\\Carrito.cs",
+              "RelativeToolTip": "AppTenis\\Models\\Entities\\Carrito.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T01:49:10.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CompraConCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Models\\Entities\\CompraConCliente.cs",
+              "RelativeDocumentMoniker": "AppTenis\\Models\\Entities\\CompraConCliente.cs",
+              "ToolTip": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Models\\Entities\\CompraConCliente.cs",
+              "RelativeToolTip": "AppTenis\\Models\\Entities\\CompraConCliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T02:45:40.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Compra.cs",
+              "DocumentMoniker": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Models\\Entities\\Compra.cs",
+              "RelativeDocumentMoniker": "AppTenis\\Models\\Entities\\Compra.cs",
+              "ToolTip": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Models\\Entities\\Compra.cs",
+              "RelativeToolTip": "AppTenis\\Models\\Entities\\Compra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T01:51:16.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Detalles.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Productos\\Detalles.cshtml",
+              "RelativeDocumentMoniker": "AppTenis\\Views\\Productos\\Detalles.cshtml",
+              "ToolTip": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Productos\\Detalles.cshtml",
+              "RelativeToolTip": "AppTenis\\Views\\Productos\\Detalles.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T01:18:31.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Catalogo.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Productos\\Catalogo.cshtml",
+              "RelativeDocumentMoniker": "AppTenis\\Views\\Productos\\Catalogo.cshtml",
+              "ToolTip": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Productos\\Catalogo.cshtml",
+              "RelativeToolTip": "AppTenis\\Views\\Productos\\Catalogo.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T20:14:13.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Productos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AppTenis\\Views\\Productos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Productos\\Edit.cshtml",
+              "RelativeToolTip": "AppTenis\\Views\\Productos\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T20:59:56.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Detalles_Comprador.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Productos\\Detalles_Comprador.cshtml",
+              "RelativeDocumentMoniker": "AppTenis\\Views\\Productos\\Detalles_Comprador.cshtml",
+              "ToolTip": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\Productos\\Detalles_Comprador.cshtml",
+              "RelativeToolTip": "AppTenis\\Views\\Productos\\Detalles_Comprador.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T20:37:10.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Models\\Entities\\Producto.cs",
+              "RelativeDocumentMoniker": "AppTenis\\Models\\Entities\\Producto.cs",
+              "ToolTip": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Models\\Entities\\Producto.cs",
+              "RelativeToolTip": "AppTenis\\Models\\Entities\\Producto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:17:21.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductosEnCarrito.cs",
+              "DocumentMoniker": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Models\\Entities\\ProductosEnCarrito.cs",
+              "RelativeDocumentMoniker": "AppTenis\\Models\\Entities\\ProductosEnCarrito.cs",
+              "ToolTip": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Models\\Entities\\ProductosEnCarrito.cs",
+              "RelativeToolTip": "AppTenis\\Models\\Entities\\ProductosEnCarrito.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T21:14:18.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Index.aspx.cs",
+              "RelativeDocumentMoniker": "AppTenis\\Index.aspx.cs",
+              "ToolTip": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Index.aspx.cs",
+              "RelativeToolTip": "AppTenis\\Index.aspx.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:11:17.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\web.config",
+              "RelativeDocumentMoniker": "AppTenis\\Views\\web.config",
+              "ToolTip": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Views\\web.config",
+              "RelativeToolTip": "AppTenis\\Views\\web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-14T06:43:24.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Web.config",
+              "RelativeDocumentMoniker": "AppTenis\\Web.config",
+              "ToolTip": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Web.config",
+              "RelativeToolTip": "AppTenis\\Web.config",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-14T06:21:04.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Models\\Entities\\Usuarios.cs",
+              "RelativeDocumentMoniker": "AppTenis\\Models\\Entities\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\Nafia\\Desktop\\APP CELULARES PRODUCTO 3\\AppTenis 1 final1\\AppTenis\\AppTenis\\Models\\Entities\\Usuarios.cs",
+              "RelativeToolTip": "AppTenis\\Models\\Entities\\Usuarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T06:03:50.338Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+﻿@model List<AppTenis.Models.Entities.ClienteCompra>
+
+@{
+    ViewBag.Title = "Clientes que han comprado el producto";
+    Layout = "~/Views/Shared/PaginaPrincipal.cshtml";
+}
+
+<h2>Clientes que han comprado el artículo</h2>
+
+<table class="table">
+    <tr>
+        <th>Nombre del Cliente</th>
+        <th>Cantidad</th>
+        <th>Fecha de Compra</th>
+    </tr>
+    @foreach (var clienteCompra in Model)
+    {
+        <tr>
+            <td>@clienteCompra.NombreCliente</td>
+            <td>@clienteCompra.Cantidad</td>
+            <td>@clienteCompra.FechaCompra</td>
+        </tr>
+    }
+</table>
+
+
+<a href="@Url.Action("Index", "Productos")" class="btn btn-primary">Volver al listado de productos</a>
+
+

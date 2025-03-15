@@ -1,0 +1,32 @@
+﻿@model IEnumerable<AppTenis.Models.Entities.CompraCliente>
+@{
+    ViewBag.Title = "VerComprasClientes";
+    Layout = "~/Views/Shared/Pagina_Usuario.cshtml";
+}
+
+<h2>Compras de Clientes</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID Artículo</th>
+            <th>Nombre Artículo</th>
+            @*<th>Nombre Cliente</th>*@
+            <th>Cantidad</th>
+            <th>Fecha de Compra</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var compra in Model)
+        {
+            <tr>
+                <td>@compra.IdArticulo</td>
+                <td>@compra.NombreArticulo</td>
+                @*<td>@compra.NombreCliente</td>*@
+                <td>@compra.Cantidad</td>
+                <td>@compra.FechaCompra.ToString("dd/MM/yyyy")</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

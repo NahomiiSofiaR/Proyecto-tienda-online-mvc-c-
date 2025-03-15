@@ -1,0 +1,28 @@
+﻿@model List<AppTenis.Models.Entities.CompraCliente>
+
+@{
+    ViewBag.Title = "Clientes que Compraron";
+    Layout = "~/Views/Shared/Pagina_Principal.cshtml"; // Asegúrate de ajustar la ruta si es diferente en tu aplicación
+}
+
+<h2>Clientes que Compraron</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre Cliente</th>
+            <th>Cantidad</th>
+            <th>Fecha de Compra</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var cliente in Model)
+        {
+            <tr>
+                <td>@cliente.NombreCliente</td>
+                <td>@cliente.Cantidad</td>
+                <td>@cliente.FechaCompra.ToString("dd/MM/yyyy")</td>
+            </tr>
+        }
+    </tbody>
+</table>

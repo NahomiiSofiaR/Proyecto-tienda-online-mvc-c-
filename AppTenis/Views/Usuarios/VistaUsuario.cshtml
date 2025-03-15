@@ -1,0 +1,61 @@
+﻿@model IEnumerable<AppTenis.Models.Entities.Usuarios>
+@{
+    ViewBag.Title = "VistaUsuario";
+    Layout = "~/Views/Shared/Pagina_Usuario.cshtml";
+}
+
+<h2>Usuarios Registrados</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.apellidos)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.correo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.pswd)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.rol)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.apellidos)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.correo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.pswd)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.rol)
+            </td>
+            <td>
+                @Html.ActionLink("Ver Compras", "VerComprasClientes", "Usuarios", new { idCliente = item.id }, null)
+
+            </td>
+        </tr>
+    }
+</table>
+
+<a href="@Url.Action("Administrador", "Productos")" class="btn btn-primary">Ir a página principal</a>

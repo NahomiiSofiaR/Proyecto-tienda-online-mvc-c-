@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppTenis", "AppTenis\AppTenis.csproj", "{10D61C8D-58E9-4B9E-8D4C-059E187757EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10D61C8D-58E9-4B9E-8D4C-059E187757EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10D61C8D-58E9-4B9E-8D4C-059E187757EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10D61C8D-58E9-4B9E-8D4C-059E187757EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10D61C8D-58E9-4B9E-8D4C-059E187757EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87ECBEFB-D7C4-485D-9BCD-0C4D9D4927B2}
+	EndGlobalSection
+EndGlobal
